@@ -1,1 +1,4 @@
 /thebot.js
+node_modules
+.env
+config.json

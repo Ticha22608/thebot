@@ -1,0 +1,17 @@
+{
+  "name": "thebot",
+  "version": "1.0.0",
+  "description": "well, yk",
+  "main": "thebot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.14.1"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0"
+  }
+}
